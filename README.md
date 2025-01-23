@@ -1,7 +1,7 @@
 Project Title: Sustainable Supply Chain Performance Dashboard using Power BI
 
 Brief Overview:
-This project focuses on developing an interactive Power BI dashboard to analyze and enhance sustainable supply chain performance. The primary goal is to provide insights into key metrics across various supply chain areas, including manufacturing, suppliers, inventory, and logistics.
+My project involves creating a Sustainable Supply Chain Performance Dashboard using Power BI. The steps include importing a .CSV file into Power BI, transforming the data in Power Query Editor, and creating separate tables for manufacturing, suppliers, inventory, and supply chain by duplicating and cleaning the data. After transforming and applying changes, relationships are built between tables, enabling analysis and visualization of key supply chain metrics in the dashboard.
 
 Key Features:
 
